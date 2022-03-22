@@ -17,5 +17,6 @@ font-size: 18px;
 canvas{
     box-shadow: 10px 10px 10px rgb(148, 141, 141);
     border-radius: 10px;
+    margin-top: 30px;
 }
 
